@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\bin\Debug\net9.0\somaNumeros.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\bin\Debug\net9.0\somaNumeros.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\bin\Debug\net9.0\somaNumeros.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\bin\Debug\net9.0\somaNumeros.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\bin\Debug\net9.0\somaNumeros.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\refint\somaNumeros.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\somaNumeros.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\somaNumeros\obj\Debug\net9.0\ref\somaNumeros.dll

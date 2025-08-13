@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\nickolasmello\todosValores\bin\Debug\net9.0\todosValores.exe
+C:\Users\nicko\Documents\nickolasmello\todosValores\bin\Debug\net9.0\todosValores.deps.json
+C:\Users\nicko\Documents\nickolasmello\todosValores\bin\Debug\net9.0\todosValores.runtimeconfig.json
+C:\Users\nicko\Documents\nickolasmello\todosValores\bin\Debug\net9.0\todosValores.dll
+C:\Users\nicko\Documents\nickolasmello\todosValores\bin\Debug\net9.0\todosValores.pdb
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.AssemblyInfo.cs
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.dll
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\refint\todosValores.dll
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.pdb
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\todosValores.genruntimeconfig.cache
+C:\Users\nicko\Documents\nickolasmello\todosValores\obj\Debug\net9.0\ref\todosValores.dll

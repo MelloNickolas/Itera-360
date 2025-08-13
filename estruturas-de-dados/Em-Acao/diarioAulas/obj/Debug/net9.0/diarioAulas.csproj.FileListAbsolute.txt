@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\bin\Debug\net9.0\diarioAulas.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\bin\Debug\net9.0\diarioAulas.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\bin\Debug\net9.0\diarioAulas.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\bin\Debug\net9.0\diarioAulas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\bin\Debug\net9.0\diarioAulas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\refint\diarioAulas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\diarioAulas.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\diarioAulas\obj\Debug\net9.0\ref\diarioAulas.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\bin\Debug\net9.0\conversaoImplicita.exe
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\bin\Debug\net9.0\conversaoImplicita.deps.json
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\bin\Debug\net9.0\conversaoImplicita.runtimeconfig.json
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\bin\Debug\net9.0\conversaoImplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\bin\Debug\net9.0\conversaoImplicita.pdb
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.AssemblyInfo.cs
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\refint\conversaoImplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.pdb
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\conversaoImplicita.genruntimeconfig.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoImplicita\obj\Debug\net9.0\ref\conversaoImplicita.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\bin\Debug\net9.0\quadradoDeUmNumero.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\bin\Debug\net9.0\quadradoDeUmNumero.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\bin\Debug\net9.0\quadradoDeUmNumero.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\bin\Debug\net9.0\quadradoDeUmNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\bin\Debug\net9.0\quadradoDeUmNumero.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\refint\quadradoDeUmNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\quadradoDeUmNumero.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\quadradoDeUmNumero\obj\Debug\net9.0\ref\quadradoDeUmNumero.dll

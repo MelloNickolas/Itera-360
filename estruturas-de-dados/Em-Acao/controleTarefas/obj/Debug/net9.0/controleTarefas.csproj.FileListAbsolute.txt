@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\bin\Debug\net9.0\controleTarefas.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\bin\Debug\net9.0\controleTarefas.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\bin\Debug\net9.0\controleTarefas.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\bin\Debug\net9.0\controleTarefas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\bin\Debug\net9.0\controleTarefas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\refint\controleTarefas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\controleTarefas.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\controleTarefas\obj\Debug\net9.0\ref\controleTarefas.dll

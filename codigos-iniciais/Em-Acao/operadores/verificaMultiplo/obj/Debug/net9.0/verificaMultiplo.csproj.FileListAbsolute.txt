@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\bin\Debug\net9.0\verificaMultiplo.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\bin\Debug\net9.0\verificaMultiplo.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\bin\Debug\net9.0\verificaMultiplo.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\bin\Debug\net9.0\verificaMultiplo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\bin\Debug\net9.0\verificaMultiplo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\refint\verificaMultiplo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\verificaMultiplo.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\operadores\verificaMultiplo\obj\Debug\net9.0\ref\verificaMultiplo.dll

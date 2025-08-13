@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\bin\Debug\net9.0\celsiusParaFahrenheit.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\bin\Debug\net9.0\celsiusParaFahrenheit.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\bin\Debug\net9.0\celsiusParaFahrenheit.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\bin\Debug\net9.0\celsiusParaFahrenheit.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\bin\Debug\net9.0\celsiusParaFahrenheit.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\refint\celsiusParaFahrenheit.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\celsiusParaFahrenheit.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\celsiusParaFahrenheit\obj\Debug\net9.0\ref\celsiusParaFahrenheit.dll

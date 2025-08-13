@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\bin\Debug\net9.0\agendaContatos.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\bin\Debug\net9.0\agendaContatos.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\bin\Debug\net9.0\agendaContatos.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\bin\Debug\net9.0\agendaContatos.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\bin\Debug\net9.0\agendaContatos.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\refint\agendaContatos.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\agendaContatos.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\agendaContatos\obj\Debug\net9.0\ref\agendaContatos.dll

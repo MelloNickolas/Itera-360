@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\bin\Debug\net9.0\areaRetangulo.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\bin\Debug\net9.0\areaRetangulo.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\bin\Debug\net9.0\areaRetangulo.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\bin\Debug\net9.0\areaRetangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\bin\Debug\net9.0\areaRetangulo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\refint\areaRetangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\areaRetangulo.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaRetangulo\obj\Debug\net9.0\ref\areaRetangulo.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\bin\Debug\net9.0\numeroPrimo.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\bin\Debug\net9.0\numeroPrimo.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\bin\Debug\net9.0\numeroPrimo.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\bin\Debug\net9.0\numeroPrimo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\bin\Debug\net9.0\numeroPrimo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\refint\numeroPrimo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\numeroPrimo.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPrimo\obj\Debug\net9.0\ref\numeroPrimo.dll

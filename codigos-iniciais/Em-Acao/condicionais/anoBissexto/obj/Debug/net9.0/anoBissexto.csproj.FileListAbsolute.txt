@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\bin\Debug\net9.0\anoBissexto.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\bin\Debug\net9.0\anoBissexto.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\bin\Debug\net9.0\anoBissexto.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\bin\Debug\net9.0\anoBissexto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\bin\Debug\net9.0\anoBissexto.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\refint\anoBissexto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\anoBissexto.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\anoBissexto\obj\Debug\net9.0\ref\anoBissexto.dll

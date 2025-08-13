@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\bin\Debug\net9.0\pilhas.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\bin\Debug\net9.0\pilhas.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\bin\Debug\net9.0\pilhas.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\bin\Debug\net9.0\pilhas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\bin\Debug\net9.0\pilhas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\refint\pilhas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\pilhas.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\pilhas\obj\Debug\net9.0\ref\pilhas.dll

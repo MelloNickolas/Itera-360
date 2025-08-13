@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\bin\Debug\net9.0\menuRestaurante.exe
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\bin\Debug\net9.0\menuRestaurante.deps.json
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\bin\Debug\net9.0\menuRestaurante.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\bin\Debug\net9.0\menuRestaurante.dll
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\bin\Debug\net9.0\menuRestaurante.pdb
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.dll
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\refint\menuRestaurante.dll
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.pdb
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\menuRestaurante.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\menuRestaurante\obj\Debug\net9.0\ref\menuRestaurante.dll

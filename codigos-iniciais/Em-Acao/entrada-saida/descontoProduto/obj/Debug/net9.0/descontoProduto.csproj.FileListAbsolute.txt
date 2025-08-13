@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\bin\Debug\net9.0\descontoProduto.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\bin\Debug\net9.0\descontoProduto.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\bin\Debug\net9.0\descontoProduto.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\bin\Debug\net9.0\descontoProduto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\bin\Debug\net9.0\descontoProduto.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\refint\descontoProduto.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\descontoProduto.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\descontoProduto\obj\Debug\net9.0\ref\descontoProduto.dll

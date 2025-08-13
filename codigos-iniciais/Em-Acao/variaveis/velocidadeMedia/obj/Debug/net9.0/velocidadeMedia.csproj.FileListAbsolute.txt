@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\bin\Debug\net9.0\velocidadeMedia.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\bin\Debug\net9.0\velocidadeMedia.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\bin\Debug\net9.0\velocidadeMedia.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\bin\Debug\net9.0\velocidadeMedia.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\bin\Debug\net9.0\velocidadeMedia.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\refint\velocidadeMedia.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\velocidadeMedia.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\velocidadeMedia\obj\Debug\net9.0\ref\velocidadeMedia.dll

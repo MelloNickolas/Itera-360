@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\bin\Debug\net9.0\mmc.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\bin\Debug\net9.0\mmc.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\bin\Debug\net9.0\mmc.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\bin\Debug\net9.0\mmc.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\bin\Debug\net9.0\mmc.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\refint\mmc.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\mmc.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\mmc\obj\Debug\net9.0\ref\mmc.dll

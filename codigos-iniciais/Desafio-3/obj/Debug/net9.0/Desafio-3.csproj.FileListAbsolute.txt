@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\bin\Debug\net9.0\Desafio-3.exe
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\bin\Debug\net9.0\Desafio-3.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\bin\Debug\net9.0\Desafio-3.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\bin\Debug\net9.0\Desafio-3.dll
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\bin\Debug\net9.0\Desafio-3.pdb
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.dll
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\refint\Desafio-3.dll
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.pdb
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\Desafio-3.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Desafio-3\obj\Debug\net9.0\ref\Desafio-3.dll

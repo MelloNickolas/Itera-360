@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\bin\Debug\net9.0\produtoPagamento.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\bin\Debug\net9.0\produtoPagamento.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\bin\Debug\net9.0\produtoPagamento.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\bin\Debug\net9.0\produtoPagamento.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\bin\Debug\net9.0\produtoPagamento.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\refint\produtoPagamento.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\produtoPagamento.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\produtoPagamento\obj\Debug\net9.0\ref\produtoPagamento.dll

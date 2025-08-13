@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\bin\Debug\net9.0\numerosPares.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\bin\Debug\net9.0\numerosPares.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\bin\Debug\net9.0\numerosPares.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\bin\Debug\net9.0\numerosPares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\bin\Debug\net9.0\numerosPares.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\refint\numerosPares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\numerosPares.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\numerosPares\obj\Debug\net9.0\ref\numerosPares.dll

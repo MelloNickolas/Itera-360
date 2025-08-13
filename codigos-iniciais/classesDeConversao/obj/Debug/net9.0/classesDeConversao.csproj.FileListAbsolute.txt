@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\bin\Debug\net9.0\classesDeConversao.exe
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\bin\Debug\net9.0\classesDeConversao.deps.json
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\bin\Debug\net9.0\classesDeConversao.runtimeconfig.json
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\bin\Debug\net9.0\classesDeConversao.dll
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\bin\Debug\net9.0\classesDeConversao.pdb
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.AssemblyInfo.cs
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.dll
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\refint\classesDeConversao.dll
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.pdb
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\classesDeConversao.genruntimeconfig.cache
+C:\Users\nicko\Documents\nickolasmello\classesDeConversao\obj\Debug\net9.0\ref\classesDeConversao.dll

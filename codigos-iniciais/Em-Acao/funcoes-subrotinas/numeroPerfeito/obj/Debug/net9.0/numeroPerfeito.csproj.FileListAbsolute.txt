@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\bin\Debug\net9.0\numeroPerfeito.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\bin\Debug\net9.0\numeroPerfeito.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\bin\Debug\net9.0\numeroPerfeito.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\bin\Debug\net9.0\numeroPerfeito.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\bin\Debug\net9.0\numeroPerfeito.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\refint\numeroPerfeito.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\numeroPerfeito.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\funcoes-subrotinas\numeroPerfeito\obj\Debug\net9.0\ref\numeroPerfeito.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\bin\Debug\net9.0\listaCompras.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\bin\Debug\net9.0\listaCompras.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\bin\Debug\net9.0\listaCompras.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\bin\Debug\net9.0\listaCompras.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\bin\Debug\net9.0\listaCompras.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\refint\listaCompras.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\listaCompras.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\listaCompras\obj\Debug\net9.0\ref\listaCompras.dll

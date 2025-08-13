@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\bin\Debug\net9.0\areaCirculo.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\bin\Debug\net9.0\areaCirculo.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\bin\Debug\net9.0\areaCirculo.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\bin\Debug\net9.0\areaCirculo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\bin\Debug\net9.0\areaCirculo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\refint\areaCirculo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\areaCirculo.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\variaveis\areaCirculo\obj\Debug\net9.0\ref\areaCirculo.dll

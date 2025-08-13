@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\bin\Debug\net9.0\areaTriangulo.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\bin\Debug\net9.0\areaTriangulo.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\bin\Debug\net9.0\areaTriangulo.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\bin\Debug\net9.0\areaTriangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\bin\Debug\net9.0\areaTriangulo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\refint\areaTriangulo.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\areaTriangulo.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\areaTriangulo\obj\Debug\net9.0\ref\areaTriangulo.dll

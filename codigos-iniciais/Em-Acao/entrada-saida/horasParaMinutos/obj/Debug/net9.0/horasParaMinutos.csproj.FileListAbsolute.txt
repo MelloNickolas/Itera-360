@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\bin\Debug\net9.0\horasParaMinutos.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\bin\Debug\net9.0\horasParaMinutos.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\bin\Debug\net9.0\horasParaMinutos.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\bin\Debug\net9.0\horasParaMinutos.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\bin\Debug\net9.0\horasParaMinutos.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\refint\horasParaMinutos.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\horasParaMinutos.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\horasParaMinutos\obj\Debug\net9.0\ref\horasParaMinutos.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\bin\Debug\net9.0\maiorNumero.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\bin\Debug\net9.0\maiorNumero.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\bin\Debug\net9.0\maiorNumero.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\bin\Debug\net9.0\maiorNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\bin\Debug\net9.0\maiorNumero.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\refint\maiorNumero.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\maiorNumero.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\repeticao\maiorNumero\obj\Debug\net9.0\ref\maiorNumero.dll

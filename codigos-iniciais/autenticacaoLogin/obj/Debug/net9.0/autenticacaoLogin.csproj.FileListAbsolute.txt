@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\bin\Debug\net9.0\autenticacaoLogin.exe
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\bin\Debug\net9.0\autenticacaoLogin.deps.json
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\bin\Debug\net9.0\autenticacaoLogin.runtimeconfig.json
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\bin\Debug\net9.0\autenticacaoLogin.dll
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\bin\Debug\net9.0\autenticacaoLogin.pdb
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.AssemblyInfo.cs
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.dll
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\refint\autenticacaoLogin.dll
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.pdb
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\autenticacaoLogin.genruntimeconfig.cache
+C:\Users\nicko\Documents\nickolasmello\autenticacaoLogin\obj\Debug\net9.0\ref\autenticacaoLogin.dll

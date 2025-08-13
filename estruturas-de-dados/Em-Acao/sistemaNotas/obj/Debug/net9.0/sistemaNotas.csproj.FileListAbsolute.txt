@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\bin\Debug\net9.0\sistemaNotas.exe
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\bin\Debug\net9.0\sistemaNotas.deps.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\bin\Debug\net9.0\sistemaNotas.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\bin\Debug\net9.0\sistemaNotas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\bin\Debug\net9.0\sistemaNotas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\refint\sistemaNotas.dll
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.pdb
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\sistemaNotas.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\estruturas-de-dados\Em-Acao\sistemaNotas\obj\Debug\net9.0\ref\sistemaNotas.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\bin\Debug\net9.0\digiteAte0.exe
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\bin\Debug\net9.0\digiteAte0.deps.json
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\bin\Debug\net9.0\digiteAte0.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\bin\Debug\net9.0\digiteAte0.dll
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\bin\Debug\net9.0\digiteAte0.pdb
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.dll
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\refint\digiteAte0.dll
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.pdb
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\digiteAte0.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\digiteAte0\obj\Debug\net9.0\ref\digiteAte0.dll

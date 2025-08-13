@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\bin\Debug\net9.0\conversaoExplicita.exe
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\bin\Debug\net9.0\conversaoExplicita.deps.json
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\bin\Debug\net9.0\conversaoExplicita.runtimeconfig.json
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\bin\Debug\net9.0\conversaoExplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\bin\Debug\net9.0\conversaoExplicita.pdb
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.AssemblyInfo.cs
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\refint\conversaoExplicita.dll
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.pdb
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\conversaoExplicita.genruntimeconfig.cache
+C:\Users\nicko\Documents\nickolasmello\conversaoExplicita\obj\Debug\net9.0\ref\conversaoExplicita.dll

@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\bin\Debug\net9.0\senhaC#Rocks.exe
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\bin\Debug\net9.0\senhaC#Rocks.deps.json
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\bin\Debug\net9.0\senhaC#Rocks.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\bin\Debug\net9.0\senhaC#Rocks.dll
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\bin\Debug\net9.0\senhaC#Rocks.pdb
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.dll
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\refint\senhaC#Rocks.dll
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.pdb
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\senhaC#Rocks.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\senhaC#Rocks\obj\Debug\net9.0\ref\senhaC#Rocks.dll

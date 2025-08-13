@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\bin\Debug\net9.0\classificaoAluno.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\bin\Debug\net9.0\classificaoAluno.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\bin\Debug\net9.0\classificaoAluno.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\bin\Debug\net9.0\classificaoAluno.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\bin\Debug\net9.0\classificaoAluno.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\refint\classificaoAluno.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\classificaoAluno.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\condicionais\classificaoAluno\obj\Debug\net9.0\ref\classificaoAluno.dll

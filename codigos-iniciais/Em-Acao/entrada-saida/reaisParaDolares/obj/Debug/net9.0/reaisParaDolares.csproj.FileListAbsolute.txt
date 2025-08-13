@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\bin\Debug\net9.0\reaisParaDolares.exe
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\bin\Debug\net9.0\reaisParaDolares.deps.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\bin\Debug\net9.0\reaisParaDolares.runtimeconfig.json
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\bin\Debug\net9.0\reaisParaDolares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\bin\Debug\net9.0\reaisParaDolares.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.AssemblyInfo.cs
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\refint\reaisParaDolares.dll
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.pdb
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\reaisParaDolares.genruntimeconfig.cache
+C:\Users\nicko\Documents\Projetos-C#\Em-Acao\entrada-saida\reaisParaDolares\obj\Debug\net9.0\ref\reaisParaDolares.dll
