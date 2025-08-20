@@ -1,0 +1,15 @@
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\bin\Debug\net9.0\carregarTag.exe
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\bin\Debug\net9.0\carregarTag.deps.json
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\bin\Debug\net9.0\carregarTag.runtimeconfig.json
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\bin\Debug\net9.0\carregarTag.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\bin\Debug\net9.0\carregarTag.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.AssemblyInfo.cs
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.sourcelink.json
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\refint\carregarTag.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\carregarTag.genruntimeconfig.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\estruturas-de-dados\Desafio\carregarTag\obj\Debug\net9.0\ref\carregarTag.dll
