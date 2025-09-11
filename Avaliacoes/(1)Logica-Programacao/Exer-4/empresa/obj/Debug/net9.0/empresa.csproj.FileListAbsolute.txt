@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Exer-4\empresa\bin\Debug\net9.0\empresa.exe
+C:\Users\nicko\Documents\Exer-4\empresa\bin\Debug\net9.0\empresa.deps.json
+C:\Users\nicko\Documents\Exer-4\empresa\bin\Debug\net9.0\empresa.runtimeconfig.json
+C:\Users\nicko\Documents\Exer-4\empresa\bin\Debug\net9.0\empresa.dll
+C:\Users\nicko\Documents\Exer-4\empresa\bin\Debug\net9.0\empresa.pdb
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.AssemblyInfo.cs
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.dll
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\refint\empresa.dll
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.pdb
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\empresa.genruntimeconfig.cache
+C:\Users\nicko\Documents\Exer-4\empresa\obj\Debug\net9.0\ref\empresa.dll

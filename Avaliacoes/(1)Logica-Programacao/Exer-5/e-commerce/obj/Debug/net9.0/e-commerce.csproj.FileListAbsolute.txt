@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Exer-5\e-commerce\bin\Debug\net9.0\e-commerce.exe
+C:\Users\nicko\Documents\Exer-5\e-commerce\bin\Debug\net9.0\e-commerce.deps.json
+C:\Users\nicko\Documents\Exer-5\e-commerce\bin\Debug\net9.0\e-commerce.runtimeconfig.json
+C:\Users\nicko\Documents\Exer-5\e-commerce\bin\Debug\net9.0\e-commerce.dll
+C:\Users\nicko\Documents\Exer-5\e-commerce\bin\Debug\net9.0\e-commerce.pdb
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.AssemblyInfo.cs
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.dll
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\refint\e-commerce.dll
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.pdb
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\e-commerce.genruntimeconfig.cache
+C:\Users\nicko\Documents\Exer-5\e-commerce\obj\Debug\net9.0\ref\e-commerce.dll

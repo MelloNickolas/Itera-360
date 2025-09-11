@@ -1,0 +1,14 @@
+C:\Users\nicko\Documents\Exer-2\academia\bin\Debug\net9.0\academia.exe
+C:\Users\nicko\Documents\Exer-2\academia\bin\Debug\net9.0\academia.deps.json
+C:\Users\nicko\Documents\Exer-2\academia\bin\Debug\net9.0\academia.runtimeconfig.json
+C:\Users\nicko\Documents\Exer-2\academia\bin\Debug\net9.0\academia.dll
+C:\Users\nicko\Documents\Exer-2\academia\bin\Debug\net9.0\academia.pdb
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.AssemblyInfo.cs
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.dll
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\refint\academia.dll
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.pdb
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\academia.genruntimeconfig.cache
+C:\Users\nicko\Documents\Exer-2\academia\obj\Debug\net9.0\ref\academia.dll
