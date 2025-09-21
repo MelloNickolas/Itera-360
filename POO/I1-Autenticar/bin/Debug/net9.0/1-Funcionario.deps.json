@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1-Funcionario/1.0.0": {
+        "runtime": {
+          "1-Funcionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1-Funcionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

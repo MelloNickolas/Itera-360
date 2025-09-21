@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\1-Funcionario\\1-Funcionario.csproj": {}
+    "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\C1-Pessoa\\1-Funcionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\1-Funcionario\\1-Funcionario.csproj": {
+    "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\C1-Pessoa\\1-Funcionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\1-Funcionario\\1-Funcionario.csproj",
+        "projectUniqueName": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\C1-Pessoa\\1-Funcionario.csproj",
         "projectName": "1-Funcionario",
-        "projectPath": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\1-Funcionario\\1-Funcionario.csproj",
+        "projectPath": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\C1-Pessoa\\1-Funcionario.csproj",
         "packagesPath": "C:\\Users\\nicko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\1-Funcionario\\obj\\",
+        "outputPath": "C:\\Users\\nicko\\Documents\\GitHub\\Itera-360\\POO\\C1-Pessoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicko\\AppData\\Roaming\\NuGet\\NuGet.Config"
