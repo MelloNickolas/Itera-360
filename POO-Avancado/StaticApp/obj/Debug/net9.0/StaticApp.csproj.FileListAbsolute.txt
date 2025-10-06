@@ -1,0 +1,15 @@
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\bin\Debug\net9.0\StaticApp.exe
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\bin\Debug\net9.0\StaticApp.deps.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\bin\Debug\net9.0\StaticApp.runtimeconfig.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\bin\Debug\net9.0\StaticApp.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\bin\Debug\net9.0\StaticApp.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.AssemblyInfo.cs
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.sourcelink.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\refint\StaticApp.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\StaticApp.genruntimeconfig.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\StaticApp\obj\Debug\net9.0\ref\StaticApp.dll
