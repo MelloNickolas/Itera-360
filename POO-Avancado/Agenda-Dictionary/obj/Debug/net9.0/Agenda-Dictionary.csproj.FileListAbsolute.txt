@@ -1,0 +1,15 @@
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\bin\Debug\net9.0\Agenda-Dictionary.exe
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\bin\Debug\net9.0\Agenda-Dictionary.deps.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\bin\Debug\net9.0\Agenda-Dictionary.runtimeconfig.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\bin\Debug\net9.0\Agenda-Dictionary.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\bin\Debug\net9.0\Agenda-Dictionary.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.AssemblyInfo.cs
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.sourcelink.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\refint\Agenda-Dictionary.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\Agenda-Dictionary.genruntimeconfig.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Agenda-Dictionary\obj\Debug\net9.0\ref\Agenda-Dictionary.dll

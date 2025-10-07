@@ -1,0 +1,15 @@
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\bin\Debug\net9.0\Tarefas-List.exe
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\bin\Debug\net9.0\Tarefas-List.deps.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\bin\Debug\net9.0\Tarefas-List.runtimeconfig.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\bin\Debug\net9.0\Tarefas-List.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\bin\Debug\net9.0\Tarefas-List.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.AssemblyInfo.cs
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.sourcelink.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\refint\Tarefas-List.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\Tarefas-List.genruntimeconfig.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Tarefas-List\obj\Debug\net9.0\ref\Tarefas-List.dll
