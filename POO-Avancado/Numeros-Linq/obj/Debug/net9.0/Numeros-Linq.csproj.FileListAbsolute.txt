@@ -1,0 +1,15 @@
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\bin\Debug\net9.0\Numeros-Linq.exe
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\bin\Debug\net9.0\Numeros-Linq.deps.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\bin\Debug\net9.0\Numeros-Linq.runtimeconfig.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\bin\Debug\net9.0\Numeros-Linq.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\bin\Debug\net9.0\Numeros-Linq.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.AssemblyInfoInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.AssemblyInfo.cs
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.sourcelink.json
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\refint\Numeros-Linq.dll
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.pdb
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\Numeros-Linq.genruntimeconfig.cache
+C:\Users\nicko\Documents\GitHub\Itera-360\POO-Avancado\Numeros-Linq\obj\Debug\net9.0\ref\Numeros-Linq.dll
