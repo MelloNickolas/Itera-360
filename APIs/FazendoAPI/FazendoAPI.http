@@ -1,0 +1,6 @@
+@FazendoAPI_HostAddress = http://localhost:5217
+
+GET {{FazendoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

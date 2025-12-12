@@ -1,0 +1,17 @@
+[
+  {
+    "IDItem": 1,
+    "Nome": "Camisa Nike",
+    "Disponivel": true
+  },
+  {
+    "IDItem": 2,
+    "Nome": "Chuteira Nike",
+    "Disponivel": true
+  },
+  {
+    "IDItem": 3,
+    "Nome": "Tenis da Addidas",
+    "Disponivel": false
+  }
+]

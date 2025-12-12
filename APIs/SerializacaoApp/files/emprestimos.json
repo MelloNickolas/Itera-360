@@ -1,0 +1,20 @@
+[
+  {
+    "IDEmprestimo": 1,
+    "DataEmprestimo": "2025-12-11T00:23:09.5582854-03:00",
+    "DataDevolucaoPrevista": "2026-02-26T00:00:00",
+    "DataDevolucaoReal": null,
+    "IDUsuario": 2,
+    "IDItem": 3,
+    "Devolvido": false
+  },
+  {
+    "IDEmprestimo": 2,
+    "DataEmprestimo": "2025-12-11T00:23:37.3399914-03:00",
+    "DataDevolucaoPrevista": "2026-03-16T00:00:00",
+    "DataDevolucaoReal": "2025-12-11T00:23:48.7499472-03:00",
+    "IDUsuario": 3,
+    "IDItem": 2,
+    "Devolvido": true
+  }
+]
