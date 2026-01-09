@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FazendoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc4f822efd87e12bb74bbb2e5711fad4a10ab3ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ace27b947ad15f7a2e65633837b355784e41fed5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FazendoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FazendoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
