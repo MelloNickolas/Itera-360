@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatbotGroqConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9af653df21db54e0856a3f6bdc69b259976a9ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc4f822efd87e12bb74bbb2e5711fad4a10ab3ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatbotGroqConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatbotGroqConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
