@@ -1,0 +1,22 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  text-align: center;
+  
+}
+
+img{
+  height: 50px;
+  width: auto;
+}
+
+.content{
+  display: flex;
+  gap: 10px;
+}
+
+
+/* Não briguem comigo por ter usado flexbox */
