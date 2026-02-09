@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Primeiro Formulário</title>
+</head>
+
+<body>
+  <form action="">
+    <div>
+      <label for="nome">Digite seu nome: </label> <!--Esse for é relacionando para qual input esse label fornece-->
+      <input id="nome" placeholder="Nome Completo" type="text" required>
+    </div>
+    <div>
+      <label for="idade">Digite sua idade: </label>
+      <input id="idade" placeholder="Idade" type="text" required>
+    </div>
+    <div>
+      <label for="email">Digite seu email: </label>
+      <input id="email" placeholder="E-mail" type="email" required>
+    </div>
+    <div>
+      <label for="mensagem">Digite sua senha: </label>
+      <input type="password" required>
+    </div>
+    <div>
+      <label for="mensagem">ID: </label>
+      <input type="text" readonly value="4523"> <!-- Não permite alterações por ser READONLY-->
+    </div>
+    <button type="submit" onclick="enviarInformacoes()">Enviar</button>
+  </form>
+
+
+  <div>
+    <p id="nomeExibicao"></p>
+    <p id="idadeExibicao"></p>
+    <p id="emailExibicao"></p>
+
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
