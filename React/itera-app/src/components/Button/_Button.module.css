@@ -1,0 +1,14 @@
+.button_example{
+  border: 2px solid aquamarine;
+}
+.orange {background-color: orange;}
+.blue{background-color: blue;}
+
+.small_size { padding: 6px 10px; }
+.medium_size { padding: 10px 14px; }
+.large_size { padding: 14px 18px; }
+
+.Image{
+  width: 100px;
+  height: auto;
+}

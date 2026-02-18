@@ -1,0 +1,24 @@
+.wrapper{
+  max-width: 350px;
+  padding: 1rem;
+  margin: 1rem;
+  background-color: rgb(69, 95, 95);
+  color: white;
+  border-radius: 0.5rem;
+  border: 1px solid  rgb(81, 109, 109);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.row div {
+  flex: 1;
+}
