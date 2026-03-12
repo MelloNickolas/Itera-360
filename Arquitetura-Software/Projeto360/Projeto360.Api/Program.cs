@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using Projeto360.Application;
 using Projeto360.Repositories;
 using Projeto360.Services.Interfaces;
@@ -21,8 +22,6 @@ builder.Services.AddDbContext<Projeto360Context>(options => options.UseSqlite(bu
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-
 
 var app = builder.Build();
 
